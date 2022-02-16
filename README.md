@@ -25,7 +25,7 @@ All Item StackZ commands
 
 <p><strong>Achetez d’abord la version Pro pour voir d’autres nouvelles commandes, et vous obtenez le Pro Datapack, et ce Pro Datapack vous permet d’afficher le journal du datapack lui-même, et votre nom contient item stackz pro et vous pouvez le désactiver.
 
-</p>
+</p></strong>
 
 <button>Unknown Error 1075!</button>
 
